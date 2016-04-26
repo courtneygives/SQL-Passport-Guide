@@ -6,6 +6,8 @@ It’s extremely flexible and modular and can be dropped in to any Express-based
 
 Strategies are packaged as individual modules so you can choose which strategies to employ, without creating unnecessary dependencies.
 
+**This guide starts with the assumption that you’ve set up a basic Express application**
+
 - Let’s add Passport to our application.
 ```
 
